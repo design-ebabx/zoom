@@ -1,0 +1,340 @@
+{
+  "markers": [
+    {
+      "lattitude": "34.88593",
+      "longitude": "-14.94141",
+      "type": "video",
+      "src": "avec_plaisir_audrey.mov",
+      "titre": "Avec plaisir",
+      "description": "Audrey Blet Vermuse",
+      "punch": "Je vous méprise. Subtilement."
+    },
+    {
+      "lattitude": "48.98022",
+      "longitude": "-68.99414",
+      "type": "video",
+      "src": "confirmer_ou_infirmer_audrey.mov",
+      "titre": "Confirmer ou Infirmer",
+      "description": "Audrey Blet Vermuse",
+      "punch": "Malheureusement non, ou en tout cas je n’ai pas trouvé de quoi confirmer ou infirmer car il n’y a pas de statistique fiable sur la question."
+    },
+    {
+      "lattitude": "18.89589",
+      "longitude": "128.67188",
+      "type": "image",
+      "src": "la_grande_echapee_audrey.jpg",
+      "titre": "La Grande échappée",
+      "description": "Audrey Blet Vermuse",
+      "punch": "Exode de fée."
+    },
+    {
+      "lattitude": "62.55286",
+      "longitude": "-85.69336",
+      "type": "audio",
+      "src": "melopee_audrey.m4a",
+      "titre": "Mélopée",
+      "description": "Audrey Blet Vermuse",
+      "punch": "Une odeur de charogne et un chant dans la forêt, une piste à suivre."
+    },
+    {
+      "lattitude": "67.94165",
+      "longitude": "-84.375",
+      "type": "pdf",
+      "src": "selection_synopsis_chahut_audrey_blet_vermuse.pdf",
+      "titre": "Synopsis",
+      "description": "Audrey Blet Vermuse",
+      "punch": "Un être humain perdu sur un site web depuis déjà plusieurs minutes clique sur un lien à la description méta, il gagne l’équivalent de son poids en louis d’or deux jours plus tard."
+    },
+    {
+      "lattitude": "81.97243",
+      "longitude": "-148.44727",
+      "type": "image",
+      "src": "l_arme_rouge_camille.jpeg",
+      "titre": "Réseaux de regards",
+      "description": "Camille Bressy",
+      "punch": "Où se promène tes pupilles?"
+    },
+    {
+      "lattitude": "82.48333",
+      "longitude": "-123.31055",
+      "type": "image",
+      "src": "roje_copie_camille.jpeg",
+      "titre": "Réseaux de regards",
+      "description": "Camille Bressy",
+      "punch": "Dans des jardins en noir en blanc."
+    },
+    {
+      "lattitude": "78.56049",
+      "longitude": "119.0918",
+      "type": "image",
+      "src": "doucenoirceur2_camille.jpeg",
+      "titre": "Douce Noirceur",
+      "description": "Camille Bressy"
+    },
+    {
+      "lattitude": "78.45543",
+      "longitude": "134.73633",
+      "type": "image",
+      "src": "doucenoirceur3_camille.jpeg",
+      "titre": "Douce Noirceur",
+      "description": "Camille Bressy"
+    },
+    {
+      "lattitude": "76.5373",
+      "longitude": "143.70117",
+      "type": "image",
+      "src": "doucenoirceur4_camille.jpeg",
+      "titre": "Douce Noirceur",
+      "description": "Camille Bressy"
+    },
+    {
+      "lattitude": "78.56049",
+      "longitude": "97.29492",
+      "type": "video",
+      "src": "1080p_matthias.mov",
+      "titre": "Promenade Punk",
+      "description": "Matthias Briche",
+      "punch": "Ces chaussures respectent les gestes barrières."
+    },
+    {
+      "lattitude": "74.01954",
+      "longitude": "-94.43848",
+      "type": "audio",
+      "src": "cest_perdu_medhi.mp3",
+      "titre": "C'est perdu",
+      "description": "Medhi Chivaley",
+      "punch": "C’est perdu, parti, partout."
+    },
+    {
+      "lattitude": "49.15297",
+      "longitude": "36.38672",
+      "type": "pdf",
+      "src": "Textes-maison_Chahut_eleana.pdf",
+      "titre": "Maisonnée",
+      "description": "Eleana Gennuso",
+      "punch": "L'aîné, le courageux et le benjamin, hantent la maison de bois, petites marionnettes d’un temps révolu."
+    },
+    {
+      "lattitude": "81.20142",
+      "longitude": "128.32031",
+      "type": "video",
+      "src": "videoChahuts.mp4",
+      "titre": "Maquette",
+      "description": "Lilas Ghestem Galindo",
+      "punch": "Festival miniature, jack in the box, but jack has the coronavirus."
+    },
+    {
+      "lattitude": "81.53123",
+      "longitude": "80.06836",
+      "type": "pdf",
+      "src": "CEUX_mila.pdf",
+      "titre": "CEUX",
+      "description": "Mila Guionneau",
+      "punch": "Pas de lumière. Pas de son. Elle fuit. Il attend."
+    },
+    {
+      "lattitude": "49.09545",
+      "longitude": "-18.45703",
+      "type": "pdf",
+      "src": "guionneau_mila_aime.pdf",
+      "titre": "Aimé",
+      "description": "Mila Guionneau",
+      "punch": "Des mythes faits d’écorces et de peaux."
+    },
+    {
+      "lattitude": "81.67242",
+      "longitude": "13.44727",
+      "type": "pdf",
+      "src": "l_entree_ezra.pdf",
+      "titre": "L'entrée",
+      "description": "Ezra Lockett",
+      "punch": "Si vous essayez délibérément de me faire peur je m’en vais"
+    },
+    {
+      "lattitude": "73.99533",
+      "longitude": "37.26563",
+      "type": "video",
+      "src": "le pot au feu ezra.mov",
+      "titre": "Le pot au feu",
+      "description": "Ezra Lockett",
+      "punch": "Je n’arrive pas à le dire donc je vous ai tous écrit une lettre"
+    },
+    {
+      "lattitude": "81.51827",
+      "longitude": "-22.58789",
+      "type": "pdf",
+      "src": "clapman_jessy.pdf",
+      "titre": "Clapman",
+      "description": "Jessy Maillard",
+      "punch": "Qui aurait cru qu’un clap pouvait nous en boucher un coin, et pas le bon."
+    },
+    {
+      "lattitude": "18.81272",
+      "longitude": "35.15625",
+      "type": "pdf",
+      "src": "FANZINE NATURE_jessy.pdf",
+      "titre": "Fanzine Nature",
+      "description": "Jessy Maillard",
+      "punch": "Ne végétez-pas devant cette belle plante de cette façon, elle s’assume dans ses courbes."
+    },
+    {
+      "lattitude": "74.25974",
+      "longitude": "82.26563",
+      "type": "video",
+      "src": "HYPNOSE_jessy.mp4",
+      "titre": "Hypnose",
+      "description": "Jessy Maillard",
+      "punch": "Avez-vous déjà vu quelqu’un chanter avec sa bouche, ses yeux, et ses genoux?"
+    },
+    {
+      "lattitude": "6.22793",
+      "longitude": "-8.34961",
+      "type": "pdf",
+      "src": "kevin_jessy.pdf",
+      "titre": "Kevin",
+      "description": "Jessy Maillard",
+      "punch": "Vos géniteurs vous recommandent de ne pas le prendre personnellement, surtout si vous vous nommez Kevin."
+    },
+    {
+      "lattitude": "84.03432",
+      "longitude": "-40.07812",
+      "type": "video",
+      "src": "parole_1_leo.mp4",
+      "titre": "Parole 1",
+      "description": "Léo Martin"
+    },
+    {
+      "lattitude": "1.49397",
+      "longitude": "-50.00977",
+      "type": "video",
+      "src": "parole_2_leo.mp4",
+      "titre": "Parole 2",
+      "description": "Léo Martin"
+    },
+    {
+      "lattitude": "1.40611",
+      "longitude": "67.93945",
+      "type": "video",
+      "src": "parole_3_leo.mp4",
+      "titre": "Parole 3",
+      "description": "Léo Martin"
+    },
+    {
+      "lattitude": "60.10867",
+      "longitude": "105.46875",
+      "type": "pdf",
+      "src": "sur_le_toit_pitamber.pdf",
+      "titre": "Sur le toît",
+      "description": "Pitamber Veret Chang",
+      "punch": "Au début on naît, à la fin on meurt et entre les deux, on a peur de se faire remplacer."
+    },
+    {
+      "lattitude": "83.95154",
+      "longitude": "82.26563",
+      "type": "video",
+      "src": "titre boum boum hahaha finallle_pitamber.mp4",
+      "titre": "Boum Boum hahaha",
+      "description": "Pitamber Veret Chang",
+      "punch": "Uniquement pour ceux qui s’interrogent sur la nature des réponses de leurs questions."
+    },
+    {
+      "lattitude": "19.06212",
+      "longitude": "-47.90039",
+      "type": "video",
+      "src": "balance ton porcno alice.mp4",
+      "titre": "Balance ton porncno",
+      "description": "Alice Vigier-Levy",
+      "punch": "Elle a poussé un cri, puis caresse la joue de la petite qui y a été un peu trop fort. Acide."
+    },
+    {
+      "lattitude": "67.20403",
+      "longitude": "144.22852",
+      "type": "video",
+      "src": "die frauen essen die manner final alice.mp4",
+      "titre": "Die frauen essen die manner",
+      "description": "Alice Vigier-Levy",
+      "punch": "Vous voulez de la core? Oui mais juste un doigt. Vous voulez pas de la core d’abord?"
+    },
+    {
+      "lattitude": "74.54333",
+      "longitude": "-54.66797",
+      "type": "video",
+      "src": "enrhume_alice.mp4",
+      "titre": "Enrhumé",
+      "description": "Alice Vigier-Levy",
+      "punch": "TUTO - Savoir se moucher comme un grand (hard cover)"
+    },
+    {
+      "lattitude": "35.38905",
+      "longitude": "120.41016",
+      "type": "audio",
+      "src": "LE TROU  DE MA CHAUSS7 alice.wav",
+      "titre": "Le trou de ma chauss7",
+      "description": "Alice Vigier-Levy",
+      "punch": "Vos chaussettes thaïlandaises se détendent à son écoute."
+    },
+    {
+      "lattitude": "78.49055",
+      "longitude": "46.23047",
+      "type": "pdf",
+      "src": "modedemploivistorxv3alice.pdf",
+      "titre": "Mode d'emploi vis Torx",
+      "description": "Alice Vigier-Levy",
+      "punch": "Parviendra-t-elle à vaincre Billy?"
+    },
+    {
+      "lattitude": "78.40254",
+      "longitude": "-65.30273",
+      "type": "audio",
+      "src": "renaultphile alice.wav",
+      "titre": "Renaultphile",
+      "description": "Alice Vigier-Levy",
+      "punch": "Qu’est-ce qui sent très très bon? Certainement pas votre Laguna."
+    },
+    {
+      "lattitude": "49",
+      "longitude": "117",
+      "type": "image",
+      "src": "FullSizeRender_romane.jpg",
+      "titre": "Dessin",
+      "description": "Romane Taque",
+      "punch": "Le lait maternel, la peau de vache, celle du chien recouverte de dessins, du vin et un cri."
+    },
+    {
+      "lattitude": "48",
+      "longitude": "124",
+      "type": "image",
+      "src": "img_1834_romane.png",
+      "titre": "Dessin",
+      "description": "Romane Taque",
+      "punch": "Le lait maternel, la peau de vache, celle du chien recouverte de dessins, du vin et un cri."
+    },
+    {
+      "lattitude": "49",
+      "longitude": "127",
+      "type": "image",
+      "src": "img_2133_romane.jpg",
+      "titre": "Dessin",
+      "description": "Romane Taque",
+      "punch": "Le lait maternel, la peau de vache, celle du chien recouverte de dessins, du vin et un cri."
+    },
+    {
+      "lattitude": "52",
+      "longitude": "119",
+      "type": "image",
+      "src": "img_2218_romane.jpg",
+      "titre": "Dessin",
+      "description": "Romane Taque",
+      "punch": "Le lait maternel, la peau de vache, celle du chien recouverte de dessins, du vin et un cri."
+    },
+    {
+      "lattitude": "51",
+      "longitude": "124",
+      "type": "image",
+      "src": "img_2579_romane.jpg",
+      "titre": "Dessin",
+      "description": "Romane Taque",
+      "punch": "Le lait maternel, la peau de vache, celle du chien recouverte de dessins, du vin et un cri."
+    }
+  ]
+}
